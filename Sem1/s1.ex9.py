@@ -1,3 +1,11 @@
+'''
+Scrieti o functie care sa returneze cel mai mare numar prim 
+dintr-un sir de caractere dat ca parametru sau -1 daca sirul
+de caractere nu contine nici un numar prim. 
+Exemplu: 
+input: 'ahsfaisd35biaishai23isisvdshcbsi271cidsbfsd97sidsda'; 
+output: 271
+'''
 import re
 import math
 

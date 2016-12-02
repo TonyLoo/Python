@@ -1,3 +1,10 @@
+'''
+Scrieti o functie care primeste un integer char_len si
+un numar variabil de parametri (siruri de caractere) 
+si verifica daca fiecare doua string-uri vecine respecta 
+urmatoarea regula: al doilea string incepe cu ultimile 
+char_len caractere a primului string (ca la fazan).
+'''
 def fazan(char_len,cv1,cv2):
 	if cv2.startswith(cv1[-char_len:]):
 		return True

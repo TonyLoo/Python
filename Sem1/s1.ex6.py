@@ -1,4 +1,6 @@
-#corect
+'''Scrieti o functie care converteste in sir de caractere 
+scris UpperCamelCase in lowercase_with_underscores.
+'''
 string="haiSaVerificam"
 
 new=string

@@ -1,4 +1,5 @@
-#corect
+#Scrieti o functie care calculeaza cate vocale sunt intr-un sir de caractere
+
 string=raw_input("Datin un string: ")
 
 string=string.lower()
