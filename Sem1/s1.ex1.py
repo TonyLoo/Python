@@ -1,3 +1,8 @@
+'''
+Cel mai mare divizor comun a mai multor numere 
+(definiti o functie cu numar variabil de parametri 
+care sa rezolve acest lucru)
+'''
 def functie(*numere):
 	if len(numere)==1:
 		return numere[0]
